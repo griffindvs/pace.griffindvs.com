@@ -1,0 +1,37 @@
+.resetButton {
+  margin-left: 10px;
+  height: 40px;
+}
+
+.invalidInputAlert {
+  margin-left: 10px;
+  margin-bottom: 0px;
+  height: 40px;
+  padding-top: 7px;
+}
+
+.convertButton {
+  height: 40px;
+  background-color: #395EB5;
+  border-color: #395EB5;
+}
+
+.convertButton:hover {
+  background-color: #2b4a8c;
+  border-color: #2b4a8c;
+}
+
+.convertButton:focus {
+  background-color: #2b4a8c;
+  border-color: #2b4a8c;
+}
+
+
+.closeAlert {
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.unitButton {
+  height: 38px;
+}
