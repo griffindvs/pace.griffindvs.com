@@ -1,5 +1,5 @@
 import React from 'react';
-import { Jumbotron, Container } from 'reactstrap';
+import { Container } from 'reactstrap';
 
 import Calculator from '../Calculator';
 function App(props) {
@@ -12,7 +12,7 @@ function App(props) {
           <br></br>
           <div className="line"></div>
           <br></br>
-          <h6 className="copy">&copy; {new Date().getFullYear()} Griffin Davis. All Rights Reserved. <i className="mx-2 fas fa-space-shuttle"></i> <a className="footerLink" href="https://griffindvs.com">griffindvs.com</a></h6>
+          <h6 className="copy">&copy; {new Date().getFullYear()} Griffin Davis. All Rights Reserved. <i className="mx-2 fas fa-space-shuttle"></i> <a className="footerLink" href="https://gcd.dev">gcd.dev</a></h6>
         </Container>
       </Container>
     </div>
