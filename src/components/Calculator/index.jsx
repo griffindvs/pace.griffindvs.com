@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Button, ButtonGroup, Form, FormGroup, Label, Input, InputGroup, Alert } from 'reactstrap';
 
 import './index.css';
